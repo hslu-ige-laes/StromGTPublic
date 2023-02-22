@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "StromGT - Documentation"
+description: "StromGT Documentation"
 permalink: /
 ---
 
-# StromGT - Stromverbrauch der Gebäudetechnik
+# Stromverbrauch der Gebäudetechnik
 ## Getting started
 - Quick Start Guide<br>
   [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/de/){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/fr/){: .btn .btn-green }  [Italiano](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/it/){: .btn .btn-green }
