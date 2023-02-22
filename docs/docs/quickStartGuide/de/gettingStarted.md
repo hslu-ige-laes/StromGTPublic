@@ -9,7 +9,7 @@ has_toc: false
  
 # Erste Schritte
 ## Schritt 1: Anwendung herunterladen
-1. [Hier klicken um die lcm-Anwendung herunterzuladen](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest/download/lcm.zip){:target="_blank" :download}
+1. [Hier klicken um die StromGT-Anwendung herunterzuladen](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest/download/lcm.zip){:target="_blank" :download}
 1. Öffnen Sie die Zip-Datei
 1. etc.
 
