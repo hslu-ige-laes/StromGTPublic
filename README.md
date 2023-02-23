@@ -7,7 +7,7 @@
 ## Getting started
 - [Documentation](https://hslu-ige-laes.github.io/StromGTPublic/)<br>
 - Quick Start Guide<br>
-  [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/) - [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/de/) - [Français](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/fr/) - [Italiano](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/it/)
+  [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/) - [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/de/) - [Français](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/fr/)
 
 ## Simplified installation instructions
 > For more details please consult [https://hslu-ige-laes.github.io/StromGTPublic/docs/about/installation](https://hslu-ige-laes.github.io/StromGTPublic/docs/about/installation)
