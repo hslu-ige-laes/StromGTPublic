@@ -1,3 +1,6 @@
+# In development - please wait until released
+# In Entwicklung - bitte warten bis freigegeben
+
 # StromGT - Stromverbrauch der Gebäudetechnik
 - TBD Beschreibung des Projektes
 
