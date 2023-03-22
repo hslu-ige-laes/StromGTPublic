@@ -1,7 +1,7 @@
 # In development - please wait until released
 # In Entwicklung - bitte warten bis freigegeben
 
-# StromGT - Stromverbrauch der Gebäudetechnik
+# StromGT - Electricity consumption of building services: A calculation tool for planners
 - TBD Beschreibung des Projektes
 
 ## Getting started
