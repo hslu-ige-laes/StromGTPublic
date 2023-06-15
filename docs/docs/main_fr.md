@@ -13,10 +13,10 @@ permalink: /docs/main_fr
 
 - StromGT est un outil basé sur un fichier Excel. Pour utiliser l'outil, les paramètres du système doivent permettre l'exécution du code VBA.
 
-- L'outil ...
-      - peut être utilisé gratuitement ;
-      - est disponible en allemand, anglais et français ;
-      - a été principalement financé par le programme _SuisseEnergie_ de l'Office fédéral de l'énergie.
+- L'outil ...<br> 
+      - peut être utilisé gratuitement ;<br> 
+      - est disponible en allemand, anglais et français ;<br> 
+      - a été principalement financé par le programme _SuisseEnergie_ de l'Office fédéral de l'énergie.<br> 
 
 
 
