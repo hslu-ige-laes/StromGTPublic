@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# Quick Start Guide
+# Deutsch
 This guide is available in four languages, please select one.
 
 [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/){: .btn .btn-green }
