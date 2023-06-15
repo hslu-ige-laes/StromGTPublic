@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: French
 nav_order: 6
 has_children: true
 permalink: /docs/about
 ---
 
-# About StromGT
+# About StromGT Francais
 Text TBD
