@@ -18,8 +18,8 @@ permalink: /
       - is available in English, German and French;<br>
       - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
 
-[To the downloads](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
-The desired version (language, content) can be displayed and downloaded under "Assets" for the respective release.
+ [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases)<br> 
+The desired version (language, content) can be displayed and downloaded on the target page under "Assets" for the respective release.
 
 
 
