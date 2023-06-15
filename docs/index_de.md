@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Deutsch
 nav_order: 1
 description: "StromGT Documentation"
 permalink: /
