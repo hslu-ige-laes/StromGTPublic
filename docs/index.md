@@ -6,6 +6,23 @@ description: "StromGT Documentation"
 permalink: /
 ---
 
+ [English](https://hslu-ige-laes.github.io/StromGTPublic/index.md){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/indexde){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/indexfr){: .btn .btn-green }
+
+
+# StromGT - Electricity consumption of building services: A calculation tool for planners
+- The electricity consumption of building automation and control systems (BACS) has a relevant share in the total electricity consumption of building technology (BT). The new calculation tool _StromGT_ presented here helps the planner to analyse the BACS and BT power consumption. With little effort, the planner receives a realistic, detailed picture of the power consumption of the planned BA and BT system already in the early planning phases. By making changes to the system, consumption reductions can be identified.
+
+- The tool name _StromGT_ refers to the German topic name _**S**tromverbrauch der **G**ebäude**t**echnik_.
+
+- StromGT is an Excel file-based tool. In order to use the tool, the system settings must allow execution of VBA code.
+
+- StromGT was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.
+
+
+
+
+
+
 # StromGT Testaenderung3Krp
 ## Getting started
 - Quick Start Guide<br>
