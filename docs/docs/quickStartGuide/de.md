@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deutsch
+title: 
 nav_order: 2
 parent: Quick Start Guide
 
