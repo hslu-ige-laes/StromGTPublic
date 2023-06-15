@@ -20,7 +20,7 @@ permalink: /
 
 
 [To the downloads]([https://github.com/hslu-ige-laes/StromGTPublic/releases]){: .btn .btn-green } 
-
+The desired language version can be displayed and downloaded under "Assets" for the respective release.
 
 
 
