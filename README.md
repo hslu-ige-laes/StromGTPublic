@@ -1,14 +1,14 @@
 # StromGT - Electricity consumption of building services: A calculation tool for planners
 - The electricity consumption of building automation (BA) has a relevant share in the total electricity consumption of building technology (BT). The new calculation tool _StromGT_ presented here helps the planner to analyse the BA and BT power consumption. With little effort, the planner receives a realistic, detailed picture of the power consumption of the planned BA and BT system already in the early planning phases. By making changes to the system, consumption reductions can be identified.
 
-- The tool name _StromGT_ refers to the German topic name _**S**tromverbrauch der **G**ebäude**t**echnik.
+- The tool name _StromGT_ refers to the German topic name _**S**tromverbrauch der **G**ebäude**t**echnik_.
 
-- The tool ... 
-      - can be used free of charge; 
-      - is available in English, German and French;
-      - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.
+- The tool ...<br>
+      - can be used free of charge;<br> 
+      - is available in English, German and French;<br>
+      - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
 
- [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases)
+ [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green } 
 
 
 **Disclaimer**<br>
