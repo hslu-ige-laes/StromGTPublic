@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Englisch
+title: English
 nav_order: 1
-description: "StromGT Documentation"
+description: "StromGT en"
 permalink: /
 ---
 
