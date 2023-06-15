@@ -11,6 +11,8 @@ permalink: /
 - Quick Start Guide<br>
   [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/de/){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/fr/){: .btn .btn-green }  [Italiano](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/it/){: .btn .btn-green }
 
+Teständerung
+
 <hr>
 
 ## Overview
