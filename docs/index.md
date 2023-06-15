@@ -19,7 +19,7 @@ permalink: /
 - StromGT was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.
 
 
-[To the downloads]([https://github.com/hslu-ige-laes/StromGTPublic/releases]){: .btn .btn-green } 
+[To the downloads](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green } 
 The desired language version can be displayed and downloaded under "Assets" for the respective release.
 
 
