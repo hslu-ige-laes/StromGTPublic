@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wie weiter?
+title: 
 nav_order: 5
 parent: Deutsch
 grand_parent: Quick Start Guide
