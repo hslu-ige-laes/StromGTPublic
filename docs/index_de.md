@@ -3,7 +3,7 @@ layout: default
 title: Deutsch
 nav_order: 1
 description: "StromGT Documentation"
-permalink: /
+permalink: /index_de.md
 ---
 
  [English](https://hslu-ige-laes.github.io/StromGTPublic/index.md){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/index_de.md){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/index_fr){: .btn .btn-green }
