@@ -19,24 +19,10 @@ permalink: /
 - StromGT was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.
 
 
+[To the downloads]([https://github.com/hslu-ige-laes/StromGTPublic/releases]){: .btn .btn-green } 
 
 
 
-
-# StromGT Testaenderung3Krp
-## Getting started
-- Quick Start Guide<br>
-  [English](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/en/){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/de/){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/fr/){: .btn .btn-green }  [Italiano](https://hslu-ige-laes.github.io/StromGTPublic/docs/quickStartGuide/it/){: .btn .btn-green }
-
-Teständerung
-
-[Download German](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest/download/StromGT_Tool_2023-06-15_v1_de_leer.zip){: .btn .btn-green }
-
-<hr>
-
-## Overview
-- "StromGT" is a...
-- The focus of the application is on...
 
 <hr>
 
