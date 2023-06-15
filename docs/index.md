@@ -30,7 +30,7 @@ permalink: /
 
 Teständerung
 
-[Download English](https://hslu-ige-laes.github.io/StromGTPublic/docs/StromGT_Tool_2023-06-15_v1_en_leer.xlsm){: .btn .btn-green }
+[Download German](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest/download/StromGT_Tool_2023-06-15_v1_de_leer.zip){: .btn .btn-green }
 
 <hr>
 
