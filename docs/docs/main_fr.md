@@ -6,5 +6,28 @@ has_children: true
 permalink: /docs/main_fr
 ---
 
-# About StromGT Francais
-Text TBD
+StromGT - La consommation d'électricité de technique du bâtiment : un outil de calcul pour les planificateurs
+- La consommation d'électricité des systèmes d'automatisation (AB) représente une part importante de la consommation totale d'électricité de technique du bâtiment (TB). L'outil de calcul _StromGT_ présenté ici aide le planificateur à analyser la consommation électrique. Avec peu d'efforts, le planificateur obtient une image réaliste et détaillée de la consommation électrique du système BA et BT prévu dès les premières phases de planification. En apportant des modifications au système, des réductions de consommation peuvent être identifiées.
+
+- Le nom de l'outil StromGT fait référence au nom thématique allemand _**S**tromverbrauch der **G**ebäude**t**echnik_.
+
+- StromGT est un outil basé sur un fichier Excel. Pour utiliser l'outil, les paramètres du système doivent permettre l'exécution du code VBA.
+
+- L'outil ...
+      - peut être utilisé gratuitement ;
+      - est disponible en allemand, anglais et français ;
+      - a été principalement financé par le programme _SuisseEnergie_ de l'Office fédéral de l'énergie.
+
+
+
+[Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
+La version souhaitée (langue, contenu) peut être affichée et téléchargée sur la page cible sous "Assets" pour la version correspondante.
+
+
+
+<hr>
+
+**Clause de non-responsabilité**<br>
+Les auteurs déclinent toute responsabilité concernant l'application StromGT.
+
+© Haute école de Lucerne, 2023
