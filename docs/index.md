@@ -6,7 +6,7 @@ description: "StromGT Documentation"
 permalink: /
 ---
 
- [English](https://hslu-ige-laes.github.io/StromGTPublic/index.md){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/indexde){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/indexfr){: .btn .btn-green }
+ [English](https://hslu-ige-laes.github.io/StromGTPublic/index.md){: .btn .btn-green }  [Deutsch](https://hslu-ige-laes.github.io/StromGTPublic/index_de.md){: .btn .btn-green }  [Français](https://hslu-ige-laes.github.io/StromGTPublic/indexfr){: .btn .btn-green }
 
 
 # StromGT - Electricity consumption of building services: A calculation tool for planners
