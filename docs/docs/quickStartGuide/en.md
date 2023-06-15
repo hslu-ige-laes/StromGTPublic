@@ -1,6 +1,6 @@
 ---
 layout: default
-title: English
+title: 
 nav_order: 1
 parent: Quick Start Guide
 has_children: true
