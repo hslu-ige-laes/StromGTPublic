@@ -8,7 +8,7 @@
       - is available in English, German and French;<br>
       - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
 
- [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green } 
+ [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases)
 
 
 **Disclaimer**<br>
