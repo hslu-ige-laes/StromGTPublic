@@ -13,15 +13,10 @@ has_toc: false
 
 - StromGT ist ein auf einer Excel-Datei basierendes Tool. Um das Tool nutzen zu können, müssen die Systemeinstellungen die Ausführung von VBA-Code erlauben.
 
-- Das Tool ...
-      - kann kostenlos genutzt werden;
-      - ist in Deutsch, Englisch und Französisch verfügbar;
-      - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.
-
-- The tool ...<br>
-      - can be used free of charge;<br> 
-      - is available in English, German and French;<br>
-      - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
+- Das Tool ...<br>
+      - kann kostenlos genutzt werden;<br>
+      - ist in Deutsch, Englisch und Französisch verfügbar;<br>
+      - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.<br>
 
 [Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
 Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.
