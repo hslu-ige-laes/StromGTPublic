@@ -15,17 +15,21 @@ permalink: /
 - The tool name _StromGT_ refers to the German topic name _**S**tromverbrauch der **G**ebäude**t**echnik_.
 
 - StromGT is an Excel file-based tool. In order to use the tool, the system settings must allow execution of VBA code.
+ 
+- The tool ...<br>
+      - can be used free of charge;<br> 
+      - is available in English, German and French;<br>
+      - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
 
-- StromGT was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.
+ [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases)
 
 
-[To the downloads](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green } 
-The desired language version can be displayed and downloaded under "Assets" for the respective release.
+[To the downloads](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
+The desired version (language, content) can be displayed and downloaded under "Assets" for the respective release.
 
 
 
 <hr>
-
 
 **Disclaimer**<br>
 The authors decline any liability or responsibility in connection with the StromGT application.
