@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Italiano
+title: 
 nav_order: 4
 parent: Quick Start Guide
 has_children: true
