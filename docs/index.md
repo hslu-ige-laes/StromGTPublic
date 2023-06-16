@@ -26,8 +26,8 @@ The language can be seen in the file name:
 - ..gt.. : German.<br>
 <br>
 The following contents are available:<br>
-- ...: without case data; device database with some entries;<br>
-- ...: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
+- ..empty: without case data; device database with some entries;<br>
+- ..ExampleSchema: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
 
 <img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_en_200p.png">
 
