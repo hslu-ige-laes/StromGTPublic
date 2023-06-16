@@ -27,7 +27,7 @@ La langue est indiquée dans le nom du fichier :<br>
 - ..fr.. : French;<br> 
 - ..dt. : German.<br>
 Le contenu est disponible au choix :<br> 
-- ..vide.. : sans données de cas ; base de données d'appareils avec quelques entrées;<br> 
+- ..vide : sans données de cas ; base de données d'appareils avec quelques entrées;<br> 
 - ..ExempleSchema : avec données de cas correspondant à l'arbre d'alimentation ci-dessous ; base de données d'appareils avec les mêmes entrées que dans le premier fichier.<br>
 
 <img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_de_200p_Ausschnitt.png">
