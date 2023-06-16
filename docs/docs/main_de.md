@@ -23,7 +23,8 @@ Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" 
 Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..en.. : Englisch<br>
 - ..fr.. : Französisch<br>
-- ..dt.. : Deutsch
+- ..dt.. : Deutsch<br>
+<br>
 Inhaltliche stehen zur Auswahl:
 - ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
 - ..BeispielSchema: mit Falldaten entsprechend des untenstehend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
