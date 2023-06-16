@@ -25,7 +25,7 @@ The language can be seen in the file name:
 - ..fr.. : French;<br>
 - ..gt.. : German.<br>
 <br>
-Contents are available for selection:<br>
+The following contents are available:<br>
 - ...: without case data; device database with some entries;<br>
 - ...: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
 
