@@ -25,7 +25,7 @@ Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..fr.. : Französisch<br>
 - ..dt.. : Deutsch<br>
 <br>
-Inhaltliche stehen zur Auswahl:
+Inhaltlich stehen zur Auswahl:
 - ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
 - ..BeispielSchema: mit Falldaten entsprechend des untenstehend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
 
