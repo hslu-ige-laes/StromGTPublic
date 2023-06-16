@@ -30,7 +30,7 @@ Le contenu est disponible au choix :<br>
 - ... : sans données de cas ; base de données d'appareils avec quelques entrées<br> 
 - ... : avec données de cas correspondant à l'arbre d'alimentation ci-dessous ; base de données de dispositifs avec les mêmes entrées que dans le premier fichier<br> 
 
-<img src="https://github.com/hslu-ige-laes/lcm/raw/master/docs/assets/images/home_Demo.gif" width="100%" style="border:1px solid lightgrey"/>
+<img src="https://github.com/hslu-ige-laes/StromGTPublic/docs/assets/images/SchemaBsp_de_200p_Ausschnitt.png" width="100%" style="border:1px solid lightgrey"/>
 
 
 
