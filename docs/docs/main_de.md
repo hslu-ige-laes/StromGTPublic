@@ -26,7 +26,10 @@ Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..dt.. : Deutsch
 Inhaltliche stehen zur Auswahl:
 - ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
-- ..BspSchema: mit Falldaten entsprechend des untenstehendend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
+- ..BeispielSchema: mit Falldaten entsprechend des untenstehend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
+
+<img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_de_200p_Ausschnitt.png">
+
 
 <hr>
 
