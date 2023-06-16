@@ -20,6 +20,16 @@ permalink: /
 
  [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
 The desired version (language, content) can be displayed and downloaded on the target page under "Assets" for the respective release.
+The language can be seen in the file name:
+- ..en.. : English;<br>
+- ..fr.. : French;<br>
+- ..gt.. : German.<br>
+<br>
+Contents are available for selection:<br>
+- ...: without case data; device database with some entries;<br>
+- ...: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
+
+<img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_en_200p_Ausschnitt.png">
 
 
 <hr>
