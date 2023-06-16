@@ -21,8 +21,6 @@ permalink: /
  [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
 The desired version (language, content) can be displayed and downloaded on the target page under "Assets" for the respective release.
 
-<img src="https://github.com/hslu-ige-laes/StromGTPublic/docs/assets/images/SchemaBsp_en.pdf" width="100%" style="border:1px solid lightgrey"/>
-
 
 <hr>
 
