@@ -29,7 +29,7 @@ Contents are available for selection:<br>
 - ...: without case data; device database with some entries;<br>
 - ...: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
 
-<img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_en_200p_Ausschnitt.png">
+<img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_en_200p.png">
 
 
 <hr>
