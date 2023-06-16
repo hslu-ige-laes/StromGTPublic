@@ -22,6 +22,15 @@ permalink: /docs/main_fr
 
 [Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
 La version souhaitée (langue, contenu) peut être affichée et téléchargée sur la page cible sous "Assets" pour la version correspondante.
+La langue est indiquée dans le nom du fichier :
+- ...en. : English
+- ..fr. : French
+- ..dt. : German
+Le contenu est disponible au choix :
+- ... : sans données de cas ; base de données d'appareils avec quelques entrées
+- ... : avec données de cas correspondant à l'arbre d'alimentation ci-dessous ; base de données de dispositifs avec les mêmes entrées que dans le premier fichier
+
+<img src="https://github.com/hslu-ige-laes/lcm/raw/master/docs/assets/images/home_Demo.gif" width="100%" style="border:1px solid lightgrey"/>
 
 
 
