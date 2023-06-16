@@ -19,9 +19,14 @@ has_toc: false
       - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.<br>
 
 [Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
-Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.
-
-
+Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.<br>
+Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
+- ..en.. : Englisch<br>
+- ..fr.. : Französisch<br>
+- ..dt.. : Deutsch
+Inhaltliche stehen zur Auswahl:
+- ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
+- ..BspSchema: mit Falldaten entsprechend des untenstehendend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
 
 <hr>
 
