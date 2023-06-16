@@ -26,6 +26,7 @@ La langue est indiquée dans le nom du fichier :<br>
 - ..en.. : English;<br> 
 - ..fr.. : French;<br> 
 - ..dt. : German.<br>
+<br>
 Le contenu est disponible au choix :<br> 
 - ..vide : sans données de cas ; base de données d'appareils avec quelques entrées;<br> 
 - ..ExempleSchema : avec données de cas correspondant à l'arbre d'alimentation ci-dessous ; base de données d'appareils avec les mêmes entrées que dans le premier fichier.<br>
