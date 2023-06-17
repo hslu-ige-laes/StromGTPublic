@@ -20,7 +20,7 @@ permalink: /docs/main_fr
 
 
 
-[Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases){: .btn .btn-green }<br> 
+[Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 La version souhaitée (langue, contenu) peut être affichée et téléchargée sur la page cible sous "Assets" pour la version correspondante.<br> 
 La langue est indiquée dans le nom du fichier :<br> 
 - ..en.. : English;<br> 
