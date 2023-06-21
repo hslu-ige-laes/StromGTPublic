@@ -24,6 +24,7 @@ Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..en.. : Englisch<br>
 - ..fr.. : Französisch<br>
 - ..dt.. : Deutsch<br>
+Die Benutzeranleitung ist im ersten Blatt des Tool: Blatt "Read-me".<br>
 <br>
 Inhaltlich stehen zur Auswahl:
 - ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
