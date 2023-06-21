@@ -25,7 +25,7 @@ The language can be seen in the file name:
 - ..fr.. : French;<br>
 - ..gt.. : German.<br>
 
-The user guide is on the first sheet of the tool: sheet "readme"<br>
+The user guide is on the first sheet of the tool: sheet "readme".<br>
 
 The following contents are available:<br>
 - ..empty: without case data; device database with some entries;<br>
