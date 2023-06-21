@@ -26,7 +26,7 @@ Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..dt.. : Deutsch<br>
 
 Die Benutzeranleitung ist im ersten Blatt des Tool: Blatt "Read-me".<br>
-<br>
+
 Inhaltlich stehen zur Auswahl:
 - ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
 - ..BeispielSchema: mit Falldaten entsprechend des untenstehend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
