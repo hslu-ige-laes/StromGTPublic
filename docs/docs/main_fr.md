@@ -27,6 +27,7 @@ La langue est indiquée dans le nom du fichier :<br>
 - ..fr.. : French;<br> 
 - ..dt. : German.<br>
 Le guide d'utilisation se trouve sur la première feuille de l'outil : feuille "lisez-moi".<br>
+
 <br>
 Le contenu est disponible au choix :<br> 
 - ..vide : sans données de cas ; base de données d'appareils avec quelques entrées;<br> 
