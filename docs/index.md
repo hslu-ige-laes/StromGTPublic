@@ -26,7 +26,7 @@ The language can be seen in the file name:
 - ..gt.. : German.<br>
 
 The user guide is on the first sheet of the tool: sheet "readme"<br>
-<br>
+
 The following contents are available:<br>
 - ..empty: without case data; device database with some entries;<br>
 - ..ExampleSchema: with case data according to the feeding tree shown below; device database with same entries as in the first file.<br>
