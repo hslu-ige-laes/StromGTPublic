@@ -11,7 +11,7 @@ has_toc: false
 
 | Projekt  | Inhalte | Links  |
 | :---          | :---          | :---          |
-| 1.     Eigenenergieverbrauch der Gebäudeautomation (2013 – 2017) | ·      Analyse von Bauten<br>| EEV-GA |
+| 1.     Eigenenergieverbrauch der Gebäudeautomation (2013 – 2017) |Analyse von Bauten<br> *  Methodik<br> * Labormessungen| EEV-GA |
 |                                                                  |*  Methodik
 |                                                                  |* Labormessungen  |
 | Content Cell  | Content Cell  |
