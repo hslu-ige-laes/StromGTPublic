@@ -9,9 +9,9 @@ has_toc: false
 # Entstehungs-Hintergrund des Tools StromGTStrom
 «StromGT» ist in einer Abfolge von drei Projekten entstanden:
 
-| First Header  | Second Header | First Header  |
+| Projekt  | Inhalte | Links  |
 | :---          | :---          | :---          |
-| 1.     Eigenenergieverbrauch der Gebäudeautomation (2013 – 2017) | ·      Analyse von Bauten
+| 1.     Eigenenergieverbrauch der Gebäudeautomation (2013 – 2017) | ·      Analyse von Bauten<br>| EEV-GA |
 |                                                                  |*  Methodik
 |                                                                  |* Labormessungen  |
 | Content Cell  | Content Cell  |
