@@ -11,11 +11,8 @@ has_toc: false
 
 | Projekt  | Inhalte | Links  |
 | :---          | :---          | :---          |
-| 1.     Eigenenergieverbrauch der<br>Gebäudeautomation (2013 – 2017) |+ Analyse von Bauten<br> *  Methodik<br> - Labormessungen| Projekt-Ergebnisbericht <br>  
-· brenet Status-Seminar 2016 (Analysen & Methodik)<br>
-· Haustech, 5 2016 (Analysen)<br>
-· TGA Fachplaner, 11 2016 (Analysen, Labormessungen)<br>
-· Energy Procedia, 2017 (Analysen & Methodik) |
+| 1.     Eigenenergieverbrauch der<br>Gebäudeautomation (2013 – 2017) |+ Analyse von Bauten<br> *  Methodik<br> - Labormessungen| Projekt-Ergebnisbericht <br>  · brenet Status-Seminar 2016 (Analysen & Methodik)<br>· Haustech, 5 2016 (Analysen)<br>· TGA Fachplaner, 11 2016 (Analysen, Labormessungen)<br>· Energy Procedia, 2017 (Analysen & Methodik) |
+
 | 2.     Musterbeispiele von Gebäudeautomationssystemen<br> mit geringem Stromverbrauch (2017 – 2020) |+ Analyse von Bauten<br> · Bestimmung des Optimierungspotentials| MuGA |
 | 3. StromGT (2020 – 2023) |+ Tool-Entwicklung| StromGT |
 
