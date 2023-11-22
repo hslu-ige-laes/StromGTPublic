@@ -18,6 +18,9 @@ has_toc: false
       - ist in Deutsch, Englisch und Französisch verfügbar;<br>
       - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.<br>
 
+- Das Tool ist über einen Zeitraum von rund 10 Jahren entstanden [Entstehung](https://hslu-ige-laes.github.io/StromGTPublic/docs/projects_de)
+      
+
 [Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.<br>
 Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
