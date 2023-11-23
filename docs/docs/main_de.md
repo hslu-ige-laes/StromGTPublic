@@ -5,7 +5,7 @@ nav_order: 10
 has_children: true
 has_toc: false
 permalink: /de
----
+
 
 # StromGT - Stromverbrauch der Gebäudetechnik: ein Berechnungstool für Planer
 - Der Stromverbrauch von Gebäudeautomations- und -steuerungssystemen (GLT) hat einen relevanten Anteil am Gesamtstromverbrauch der Gebäudetechnik (BT). Das hier vorgestellte neue Berechnungstool StromGT hilft dem Planer bei der Analyse des BACS- und BT-Stromverbrauchs. Mit geringem Aufwand erhält der Planer bereits in den frühen Planungsphasen ein realistisches, detailliertes Bild über den Stromverbrauch der geplanten BA- und BT-Anlage. Durch Änderungen am System lassen sich Verbrauchsreduzierungen erkennen.
