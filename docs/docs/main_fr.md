@@ -2,8 +2,8 @@
 layout: default
 title: Français
 nav_order: 6
-has_children: true
-permalink: /docs/main_fr
+has_children: false
+permalink: /fr
 ---
 
 # StromGT - La consommation d'électricité de technique du bâtiment : un outil de calcul pour les planificateurs
