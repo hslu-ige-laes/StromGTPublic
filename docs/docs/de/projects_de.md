@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Entstehung & Publikationen
+title: Projekte & Publikationen
 nav_order: 10
 has_children: false
 parent: Deutsch
@@ -8,7 +8,7 @@ has_toc: false
 permalink: /de/projects
 ---
 
-# Entstehungs-Hintergrund des Tools StromGT
+# Projekte & Publikationen
 «StromGT» ist in einer Abfolge von drei Projekten entstanden:
 
 | Projekt  | Inhalte | Publikationen  |
