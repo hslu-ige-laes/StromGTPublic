@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Entstehung
+title: Deutsch
 nav_order: 10
-has_children: false
+has_children: true
 has_toc: false
-parent: Deutsch
-permalink: /de/entstehung
 ---
 
 # Entstehungs-Hintergrund des Tools StromGT
