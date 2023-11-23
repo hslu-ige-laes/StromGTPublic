@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Entstehung
+title: Entstehung & Publikationen
 nav_order: 10
 has_children: false
 parent: Deutsch
