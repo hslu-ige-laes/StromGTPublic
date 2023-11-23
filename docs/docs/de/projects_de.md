@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Deutsch
+title: Entstehung
 nav_order: 10
-has_children: true
+has_children: false
+parent: Deutsch
 has_toc: false
 ---
 
