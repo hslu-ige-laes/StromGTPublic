@@ -9,7 +9,7 @@ permalink: /fr/projects
 ---
 
 # Projekte & Publikationen
-«StromGT» est le résultat d’une série de trois projets successifs :
+L'outil «StromGT» est le résultat d’une série de trois projets successifs :
 
 | Projet  | Contenu | Publications  |
 | :---          | :---          | :---          |
