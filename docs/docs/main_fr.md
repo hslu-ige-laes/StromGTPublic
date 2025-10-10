@@ -2,7 +2,7 @@
 layout: default
 title: Français
 nav_order: 6
-has_children: false
+has_children: true
 permalink: /fr
 ---
 
