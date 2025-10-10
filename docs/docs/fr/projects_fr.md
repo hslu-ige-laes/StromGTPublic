@@ -5,7 +5,7 @@ nav_order: 10
 has_children: false
 parent: Deutsch
 has_toc: false
-permalink: /de/projects
+permalink: /fr/projects
 ---
 
 # Projekte & Publikationen
