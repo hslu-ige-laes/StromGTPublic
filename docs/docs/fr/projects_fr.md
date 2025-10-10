@@ -8,7 +8,7 @@ has_toc: false
 permalink: /fr/projects
 ---
 
-# Projekte & Publikationen
+# Projets et publications
 L'outil «StromGT» est le résultat d’une série de trois projets successifs :
 
 | Projet  | Contenu | Publications  |
