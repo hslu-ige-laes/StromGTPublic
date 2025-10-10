@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projekte & Publikationen
+title: Projets et publications
 nav_order: 10
 has_children: false
 parent: Français
