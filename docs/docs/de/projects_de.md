@@ -24,6 +24,6 @@ In den ersten beiden Projekten wurden konkrete Bauten bezüglich des Stromverbra
 <hr>
 
 **Haftungsausschluss**<br>
-Die Autoren lehnen jegliche Haftung und Verantwortung im Zusammenhang mit der Anwendung StromGT ab.
+Die Autoren lehnen jegliche Haftung im Zusammenhang mit der Anwendung des Tools «StromGT» ab.
 
 © Hochschule Luzern - Technik & Architektur, 2023
