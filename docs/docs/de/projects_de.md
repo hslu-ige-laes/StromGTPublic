@@ -9,7 +9,7 @@ permalink: /de/projects
 ---
 
 # Projekte & Publikationen
-«StromGT» ist in einer Abfolge von drei Projekten entstanden:
+Das Tool «StromGT» ist in einer Abfolge von drei Projekten entstanden:
 
 | Projekt  | Inhalte | Publikationen  |
 | :---          | :---          | :---          |
