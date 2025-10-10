@@ -25,6 +25,6 @@ Dans le troisième projet, l’outil d’analyse a été perfectionné pour perm
 <hr>
 
 **Clause de non-responsabilité**<br>
-Les auteurs déclinent toute responsabilité liés à l’utilisation de StromGT.
+Les auteurs déclinent toute responsabilité liés à l’utilisation de l'outil «StromGT».
 
 © Haute école spécialisée de Lucerne – Technique & Architecture, 2023
