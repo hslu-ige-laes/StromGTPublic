@@ -18,7 +18,7 @@ permalink: /fr
       - est disponible en allemand, anglais et français ;<br> 
       - a été principalement financé par le programme _SuisseEnergie_ de l'Office fédéral de l'énergie.<br> 
 
-- L’outil a été développé sur une période d’environ dix ans.
+- L’outil a été développé sur une période d’environ dix ans. <br>
   -> [Projets et publications](https://hslu-ige-laes.github.io/StromGTPublic/fr/projects)
   -> [Téléchargement](https://hslu-ige-laes.github.io/StromGTPublic/de/download)      
 
