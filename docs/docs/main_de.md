@@ -20,7 +20,7 @@ permalink: /de
       - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.<br>
 
 - Das Tool ist über einen Zeitraum von rund 10 Jahren entstanden. <br>
--> [Projekte & Publikationen](https://hslu-ige-laes.github.io/StromGTPublic/de/projects)    
+-> [Projekte & Publikationen](https://hslu-ige-laes.github.io/StromGTPublic/de/projects) <br>   
 -> [Download](https://hslu-ige-laes.github.io/StromGTPublic/de/download)       
 
 
