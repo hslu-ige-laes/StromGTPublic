@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deutsch
+title: Download
 nav_order: 15
 has_children: false
 parent: Deutsch
