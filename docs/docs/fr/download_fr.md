@@ -8,6 +8,7 @@ has_toc: false
 permalink: /fr/download
 ---
 
+# Télécharger l'outil
 
 [Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 La version souhaitée (langue, contenu) peut être affichée et téléchargée sur la page cible sous "Assets" pour la version correspondante.<br> 
