@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Download
+title: Téléchargement
 nav_order: 15
 has_children: false
 parent: Français
