@@ -3,6 +3,7 @@ layout: default
 title: Deutsch
 nav_order: 15
 has_children: false
+parent: Deutsch
 has_toc: false
 permalink: /de/download
 ---
