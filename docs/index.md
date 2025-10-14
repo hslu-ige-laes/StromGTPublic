@@ -19,9 +19,12 @@ permalink: /
       - is available in English, German and French;<br>
       - was mainly financed by the Swiss Federal Office of Energy's _SwissEnergy_ programme.<br>
 
-- The tool evolved over a period of around ten years. -> [Projects and Publications](https://hslu-ige-laes.github.io/StromGTPublic/en/projects)
+- The tool evolved over a period of around ten years.
+ -> [Projects and Publications](https://hslu-ige-laes.github.io/StromGTPublic/en/projects)
+ -> [Tool Download](https://hslu-ige-laes.github.io/StromGTPublic/en/download)
 
- [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
+  
+ [Tool Download](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 The desired version (language, content) can be displayed and downloaded on the target page under "Assets" for the respective release.
 The language can be seen in the file name:
 - ..en.. : English;<br>
