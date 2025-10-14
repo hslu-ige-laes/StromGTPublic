@@ -12,7 +12,7 @@ permalink: /de/download
      
 
 [Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
-Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite des obigen Links unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.<br>
+Auf der Zielseite des obigen Links werden unter "Assets" die verfügbaren Versionen angezeigt (Sprache, Inhalt). Die gewünschte Version kann von dort heruntergeladen werden.<br>
 Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
 - ..en.. : Englisch<br>
 - ..fr.. : Französisch<br>
