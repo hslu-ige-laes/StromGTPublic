@@ -19,7 +19,7 @@ permalink: /de
       - ist in Deutsch, Englisch und Französisch verfügbar;<br>
       - wurde hauptsächlich durch das Programm _EnergieSchweiz_ des Bundesamts für Energie finanziert.<br>
 
-- Das Tool ist über einen Zeitraum von rund 10 Jahren entstanden. -> [Projekte & Publikationen](https://hslu-ige-laes.github.io/StromGTPublic/de/projects)
+- Das Tool ist über einen Zeitraum von rund 10 Jahren entstanden. -> [Projekte & Publikationen](https://hslu-ige-laes.github.io/StromGTPublic/de/projects)   [Download](https://hslu-ige-laes.github.io/StromGTPublic/de/download) 
       
 
 [Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
