@@ -4,7 +4,7 @@ title: English
 nav_order: 1
 has_children: true
 description: "StromGT en"
-permalink: /en
+permalink: /
 ---
 
 # StromGT - Electricity consumption of building services: a calculation tool for planners
