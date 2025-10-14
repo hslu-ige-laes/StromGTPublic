@@ -23,20 +23,6 @@ permalink: /de
 -> [Projekte & Publikationen](https://hslu-ige-laes.github.io/StromGTPublic/de/projects)    
 -> [Download](https://hslu-ige-laes.github.io/StromGTPublic/de/download)       
 
-[Herunterladen des Tools](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
-Die gewünschte Version (Sprache, Inhalt) kann auf der Zielseite unter "Assets" zum jeweiligen Release angezeigt und heruntergeladen werden.<br>
-Die Sprache ist aus der Filebezeichnung ersichtlich:<br>
-- ..en.. : Englisch<br>
-- ..fr.. : Französisch<br>
-- ..dt.. : Deutsch<br>
-
-Die Benutzeranleitung ist im ersten Blatt des Tool: Blatt "Read-me".<br>
-
-Inhaltlich stehen zur Auswahl:
-- ..leer: ohne Falldaten; Geräte-Datenbank mit einigen Einträgen;
-- ..BeispielSchema: mit Falldaten entsprechend des untenstehend gezeigten Speisungs-Baums; Geräte-Datenbank mit gleichen Einträgen wie im ersten File.
-
-<img src="https://github.com/hslu-ige-laes/StromGTPublic/raw/main/docs/assets/images/SchemaBsp_de_200p_Ausschnitt.png">
 
 
 <hr>
