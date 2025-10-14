@@ -4,7 +4,7 @@ title: Deutsch
 nav_order: 15
 has_children: false
 has_toc: false
-permalink: /de
+permalink: /de/download
 ---
 
 # Herunterladen des Tools
