@@ -19,8 +19,8 @@ permalink: /fr
       - a été principalement financé par le programme _SuisseEnergie_ de l'Office fédéral de l'énergie.<br> 
 
 - L’outil a été développé sur une période d’environ dix ans.
-      -> [Projets et publications](https://hslu-ige-laes.github.io/StromGTPublic/fr/projects)
-      -> [Téléchargement](https://hslu-ige-laes.github.io/StromGTPublic/de/download)      
+  -> [Projets et publications](https://hslu-ige-laes.github.io/StromGTPublic/fr/projects)
+  -> [Téléchargement](https://hslu-ige-laes.github.io/StromGTPublic/de/download)      
 
 [Télécharger l'outil](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 La version souhaitée (langue, contenu) peut être affichée et téléchargée sur la page cible sous "Assets" pour la version correspondante.<br> 
