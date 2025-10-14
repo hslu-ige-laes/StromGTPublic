@@ -8,8 +8,9 @@ has_toc: false
 permalink: /en/download
 ---
 
+# Tool Download
 
- [Tool download](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
+ [Tool Download](https://github.com/hslu-ige-laes/StromGTPublic/releases/latest){: .btn .btn-green }<br> 
 On the target page of the above link, the available versions (language, content) are listed under “Assets.” The desired version can be downloaded from there.  
 The language is indicated in the file name:
 - ..en.. : English;<br>
