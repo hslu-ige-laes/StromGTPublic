@@ -19,6 +19,7 @@ The tool «StromGT» was developed through a sequence of three projects:
 <a href="docs/assets/files/20250820_CISBAT2025_Poster_StromGT.pdf" target="_blank">Poster CISBAT 2025</a>
 <a href="docs/docs/20250820_CISBAT2025_Poster_StromGT.pdf" target="_blank">Test2</a>
 <a href="https://hslu-ige-laes.github.io/StromGTPublic/docs/docs/20250820_CISBAT2025_Poster_StromGT.pdf" target="_blank">Test3</a>
+<a href="../../docs/docs/20250820_CISBAT2025_Poster_StromGT.pdf" target="_blank">Test4</a>
 
 In the first two projects, specific buildings were analysed with regard to the electricity consumption of building automation systems. An analysis tool was developed for this purpose. The results of the analyses and the developed methodology are documented in several publications – see the “Publications” column in the table above. In the third project, the analysis tool was further developed for use by third parties, primarily for building automation planners.
 
