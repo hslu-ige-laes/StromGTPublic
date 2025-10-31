@@ -27,4 +27,4 @@ In the first two projects, specific buildings were analysed with regard to the e
 **Disclaimer**<br>
 The authors accept no liability in connection with the use of the “StromGT” tool.
 
-© Lucerne University of Applied Sciences and Arts – Engineering & Architecture, 2023
+© Lucerne University of Applied Sciences and Arts – Engineering & Architecture, 2025
