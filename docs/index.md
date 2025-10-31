@@ -30,4 +30,4 @@ permalink: /
 **Disclaimer**<br>
 The authors decline any liability or responsibility in connection with the StromGT application.
 
-&copy; Lucerne University of Applied Sciences and Arts, 2023
+&copy; Lucerne University of Applied Sciences and Arts, 2025
