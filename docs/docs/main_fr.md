@@ -20,7 +20,7 @@ permalink: /fr
 
 - L’outil a été développé sur une période d’environ dix ans. <br>
   -> [Projets et publications](https://hslu-ige-laes.github.io/StromGTPublic/fr/projects) <br>
-  -> [Téléchargement](https://hslu-ige-laes.github.io/StromGTPublic/de/download)      
+  -> [Téléchargement](https://hslu-ige-laes.github.io/StromGTPublic/fr/download)      
 
 
 
