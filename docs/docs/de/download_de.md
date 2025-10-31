@@ -32,5 +32,5 @@ Inhaltlich stehen zur Auswahl:
 **Haftungsausschluss**<br>
 Die Autoren lehnen jegliche Haftung und Verantwortung im Zusammenhang mit der Anwendung StromGT ab.
 
-© Hochschule Luzern - Technik & Architektur, 2023
+© Hochschule Luzern - Technik & Architektur, 2025
 
