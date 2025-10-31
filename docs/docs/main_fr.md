@@ -29,4 +29,4 @@ permalink: /fr
 **Clause de non-responsabilité**<br>
 Les auteurs déclinent toute responsabilité concernant l'application StromGT.
 
-© Haute école de Lucerne, 2023
+© Haute école de Lucerne, 2025
