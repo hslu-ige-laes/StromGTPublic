@@ -8,7 +8,7 @@ permalink: /de
 ---
 
 # StromGT - Stromverbrauch der Gebäudetechnik: ein Berechnungstool für Planer
-- Der Stromverbrauch von Gebäudeautomationssystemen (GA) hat einen relevanten Anteil am Gesamtstromverbrauch der Gebäudetechnik (BT). Das hier vorgestellte neue Berechnungstool StromGT hilft dem Planer bei der Analyse des GA- und GT-Stromverbrauchs. Mit geringem Aufwand erhält der Planer bereits in den frühen Planungsphasen ein realistisches, detailliertes Bild über den Stromverbrauch der geplanten GA- und GT-Anlage. Durch Änderungen am System lassen sich Verbrauchsreduzierungen erkennen.
+- Der Stromverbrauch von Gebäudeautomationssystemen (GA) hat einen relevanten Anteil am Gesamtstromverbrauch der Gebäudetechnik (BT). Das hier vorgestellte neue Berechnungstool StromGT hilft dem Planer bei der Analyse des GA- und GT-Stromverbrauchs. Mit geringem Aufwand erhält der Planer bereits in den frühen Planungsphasen ein realistisches, detailliertes Bild über den Stromverbrauch des geplanten GA- und GT-Systems. Durch Änderungen am System lassen sich Verbrauchsreduzierungen erkennen.
 
 - Der Tool-Name StromGT bezieht sich auf den deutschen Themennamen _**S**tromverbrauch der **G**ebäude**t**echnik_.
 
